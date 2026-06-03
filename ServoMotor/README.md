@@ -1,5 +1,5 @@
 
-# Arduino-codes-LED_Switch
+# Arduino-codes-Servo_Motor
 
 ## This is some code I made, you can use it.
 
