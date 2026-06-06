@@ -10,6 +10,7 @@ DHT_nonblocking dht_sensor( DHT_SENSOR_PIN, DHT_SENSOR_TYPE );
 
 void setup( )
 {
+  Serial.begin( 9600);
 }
 
 static bool measure_environment( float *temperature, float *humidity ) // Returns true when time interval lapses and updates temp/humidity via pointers
