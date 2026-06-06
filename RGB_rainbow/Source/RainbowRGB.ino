@@ -1,6 +1,6 @@
 
 // date: 5/5/2026
-// Rainbow RBG by: Armanz0n
+// Rainbow RBG by: ArZon
 
 void setup() {
   #define blue 3
