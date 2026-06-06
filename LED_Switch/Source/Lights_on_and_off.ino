@@ -1,6 +1,6 @@
 
 // date: 5/12/2026
-// Lights on and off / LED switch by: Armanz0n
+// Lights on and off / LED switch by: ArZon
 
 void setup()
  {
