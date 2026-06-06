@@ -1,6 +1,6 @@
 
 // date: 5/26/2026
-// Active buzza by: Armanz0n
+// MicroServo Motor by: ArZon
 
 #include <Servo.h> //cool library btw
 
