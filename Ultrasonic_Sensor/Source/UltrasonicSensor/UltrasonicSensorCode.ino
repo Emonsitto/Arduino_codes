@@ -1,6 +1,6 @@
 
 // date: 6/3/2026
-// by: Armanz0n
+// by: ArZon
 
 #include "SR04.h" //include library
 #define TRIG_PIN 12 //intialize the pins
