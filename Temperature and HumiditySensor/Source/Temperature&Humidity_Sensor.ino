@@ -1,6 +1,6 @@
 
 // date: 6/5/2026
-// Temperature and HumiditySensor by: Armanz0n
+// Temperature and HumiditySensor by: ArZon
 
 #include <dht_nonblocking.h>
 #define DHT_SENSOR_TYPE DHT_TYPE_11
