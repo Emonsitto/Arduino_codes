@@ -1,6 +1,6 @@
 
 // date: 5/12/2026
-// Lights on and off / LED switch by: Armanz0n
+// Lights on and off / LED switch by: ArZon
 
 #include "pitches.h" //a library made by Brett Hagman (all credits to them), to install the library, you need to click 'sketch', 'include library', 'add .zip library', go to wherever the downloaded file from github is and select the .zip file called 'pitches.zip'  
  
