@@ -1,6 +1,6 @@
 
 // date: 5/26/2026
-// Ball switch by: Armanz0n
+// Ball switch by: ArZon
 
 void setup()
   { 
