@@ -1,5 +1,5 @@
 
-# Arduino-codes-1_digit_countdown_with_Shift_Register (when will the Shift register madness stop!?)
+# Arduino-codes-Stepper Motor
 
 ## This is some code I made, you can use it.
 
