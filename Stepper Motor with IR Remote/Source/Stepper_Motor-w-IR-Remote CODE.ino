@@ -13,7 +13,6 @@ int receiver = 12; // Signal Pin of IR receiver to Arduino Digital Pin 12
 Stepper myStepper(STEPS, 8, 10, 9, 11);
 IRrecv irrecv(receiver);
 uint32_t last_decodedRawData = 0;//variable used to store the last decodedRawData
-465xrcfeds
 void setup()
 {
     irrecv.enableIRIn(); // Start the receiver
