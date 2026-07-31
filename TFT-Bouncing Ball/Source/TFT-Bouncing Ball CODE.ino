@@ -1,4 +1,7 @@
 
+//date: 7/30/2026
+//TFT-Bouncing Ball by: Arz0n
+
 #include <Elegoo_GFX.h>
 #include <Elegoo_TFTLCD.h>
 
